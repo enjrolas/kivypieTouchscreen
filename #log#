@@ -1,0 +1,1914 @@
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72c91da0>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72c91da0>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72c91da0>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72c91da0>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72c91da0>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72c91da0>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72c91da0>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72c91da0>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72c91da0>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72c91da0>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72c91da0>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.01625
+obj.width \ 0.01625
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c9c1f0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f490>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72c91f30>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72c91f30>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72c91f30>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72c91f30>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72c91f30>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72c91f30>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72c91f30>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72c91f30>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72c91f30>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72c91f30>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72c91f30>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.01875
+obj.width \ 0.01875
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2990>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2990>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2990>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2990>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2990>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2990>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2990>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2990>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2990>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2990>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2990>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2a80>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2a80>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2a80>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2a80>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2a80>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2a80>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2a80>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2a80>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2a80>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2a80>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2a80>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2a80>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2a80>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2a80>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2a80>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2a80>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2a80>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2a80>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2a80>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2a80>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2a80>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2a80>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2aa8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2aa8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2aa8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2aa8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2aa8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2aa8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2aa8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2aa8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2aa8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2aa8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2aa8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2aa8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2aa8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2aa8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2aa8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2aa8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2aa8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2aa8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2aa8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2aa8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2aa8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2aa8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2af8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2af8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2af8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2af8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2af8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2af8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2af8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2af8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2af8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2af8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2af8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2af8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2af8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2af8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2af8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2af8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2af8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2af8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2af8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2af8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2af8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2af8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2b48>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2b48>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2b48>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2b48>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2b48>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2b48>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2b48>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2b48>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2b48>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2b48>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2b48>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2b48>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2b48>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2b48>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2b48>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2b48>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2b48>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2b48>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2b48>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2b48>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2b48>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2b48>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2b98>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2b98>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2b98>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2b98>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2b98>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2b98>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2b98>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2b98>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2b98>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2b98>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2b98>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2b98>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2b98>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2b98>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2b98>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2b98>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2b98>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2b98>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2b98>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2b98>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2b98>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2b98>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2be8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2be8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2be8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2be8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2be8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2be8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2be8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2be8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2be8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2be8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2be8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2be8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2be8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2be8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2be8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2be8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2be8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2be8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2be8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2be8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2be8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2be8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2b98>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2b98>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2b98>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2b98>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2b98>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2b98>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2b98>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2b98>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2b98>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2b98>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2b98>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2b98>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2b98>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2b98>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2b98>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2b98>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2b98>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2b98>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2b98>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2b98>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2b98>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2b98>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2c88>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2c88>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2c88>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2c88>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2c88>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2c88>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2c88>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2c88>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2c88>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2c88>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2c88>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2c88>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2c88>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2c88>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2c88>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2c88>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2c88>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2c88>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2c88>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2c88>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2c88>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2c88>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2cd8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2cd8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2cd8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2cd8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2cd8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2cd8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2cd8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2cd8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2cd8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2cd8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2cd8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2cd8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2cd8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2cd8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2cd8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2cd8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2cd8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2cd8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2cd8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2cd8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2cd8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2cd8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2d28>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2d28>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2d28>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2d28>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2d28>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2d28>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2d28>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2d28>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2d28>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2d28>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2d28>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2d28>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2d28>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2d28>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2d28>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2d28>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2d28>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2d28>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2d28>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2d28>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2d28>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2d28>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2d78>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2d78>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2d78>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2d78>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2d78>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2d78>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2d78>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2d78>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2d78>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2d78>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2d78>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2d78>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2d78>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2d78>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2d78>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2d78>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2d78>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2d78>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2d78>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2d78>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2d78>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2d78>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2dc8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2dc8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2dc8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2dc8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2dc8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2dc8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2dc8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2dc8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2dc8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2dc8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2dc8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2dc8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2dc8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2dc8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2dc8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2dc8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2dc8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2dc8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2dc8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2dc8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2dc8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2dc8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2d78>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2d78>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2d78>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2d78>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2d78>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2d78>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2d78>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2d78>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2d78>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2d78>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2d78>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2d78>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2d78>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2d78>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2d78>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2d78>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2d78>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2d78>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2d78>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2d78>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2d78>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2d78>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2e68>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2e68>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2e68>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2e68>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2e68>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2e68>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2e68>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2e68>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2e68>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2e68>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2e68>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2e68>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2e68>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2e68>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2e68>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2e68>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2e68>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2e68>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2e68>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2e68>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2e68>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2e68>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2eb8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2eb8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2eb8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2eb8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2eb8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2eb8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2eb8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2eb8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2eb8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2eb8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2eb8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2eb8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2eb8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2eb8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2eb8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2eb8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2eb8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2eb8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2eb8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2eb8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2eb8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2eb8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2f08>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2f08>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2f08>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2f08>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2f08>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2f08>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2f08>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2f08>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2f08>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2f08>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2f08>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2f08>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2f08>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2f08>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2f08>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2f08>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2f08>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2f08>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2f08>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2f08>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2f08>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2f08>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2f58>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2f58>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2f58>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2f58>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2f58>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2f58>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2f58>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2f58>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2f58>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2f58>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2f58>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2f58>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2f58>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2f58>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2f58>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2f58>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2f58>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2f58>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2f58>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2f58>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2f58>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2f58>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2fa8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2fa8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2fa8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2fa8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2fa8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2fa8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2fa8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2fa8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2fa8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2fa8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2fa8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2fa8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2fa8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2fa8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2fa8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2fa8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2fa8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2fa8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2fa8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2fa8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2fa8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2fa8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2f58>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2f58>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2f58>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2f58>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2f58>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2f58>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2f58>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2f58>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2f58>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2f58>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2f58>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2f58>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2f58>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2f58>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2f58>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2f58>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2f58>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2f58>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2f58>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2f58>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2f58>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2f58>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca3080>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca3080>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca3080>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca3080>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca3080>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca3080>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca3080>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca3080>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca3080>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca3080>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca3080>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca3080>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca3080>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca3080>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca3080>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca3080>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca3080>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca3080>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca3080>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca3080>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca3080>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca3080>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2f58>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2f58>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2f58>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2f58>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2f58>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2f58>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2f58>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2f58>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2f58>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2f58>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2f58>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2f58>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2f58>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2f58>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2f58>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2f58>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2f58>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2f58>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2f58>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2f58>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2f58>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2f58>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca30a8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca30a8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca30a8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca30a8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca30a8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca30a8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca30a8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca30a8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca30a8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca30a8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca30a8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca30a8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca30a8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca30a8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca30a8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca30a8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca30a8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca30a8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca30a8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca30a8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca30a8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca30a8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2f58>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2f58>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2f58>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2f58>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2f58>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2f58>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2f58>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2f58>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2f58>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2f58>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2f58>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2f58>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2f58>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2f58>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2f58>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2f58>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2f58>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2f58>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2f58>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2f58>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2f58>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2f58>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca31e8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca31e8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca31e8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca31e8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca31e8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca31e8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca31e8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca31e8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca31e8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca31e8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca31e8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca31e8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca31e8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca31e8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca31e8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca31e8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca31e8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca31e8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca31e8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca31e8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca31e8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca31e8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2f58>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2f58>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2f58>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2f58>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2f58>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2f58>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2f58>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2f58>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2f58>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2f58>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2f58>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2f58>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2f58>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2f58>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2f58>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2f58>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2f58>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2f58>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2f58>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2f58>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2f58>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2f58>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca31c0>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca31c0>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca31c0>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca31c0>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca31c0>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca31c0>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca31c0>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca31c0>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca31c0>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca31c0>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca31c0>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca31c0>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca31c0>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca31c0>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca31c0>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca31c0>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca31c0>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca31c0>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca31c0>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca31c0>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca31c0>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca31c0>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2f58>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2f58>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2f58>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2f58>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2f58>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2f58>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2f58>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2f58>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2f58>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2f58>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2f58>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca2f58>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca2f58>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca2f58>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca2f58>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca2f58>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca2f58>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca2f58>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca2f58>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca2f58>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca2f58>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca2f58>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca30a8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca30a8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca30a8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca30a8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca30a8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca30a8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca30a8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca30a8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca30a8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca30a8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca30a8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca30a8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca30a8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca30a8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca30a8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca30a8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca30a8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca30a8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca30a8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca30a8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca30a8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca30a8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca30d0>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca30d0>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca30d0>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca30d0>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca30d0>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca30d0>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca30d0>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca30d0>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca30d0>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca30d0>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca30d0>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca30d0>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca30d0>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca30d0>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca30d0>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca30d0>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca30d0>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca30d0>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca30d0>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca30d0>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca30d0>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca30d0>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca31e8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca31e8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca31e8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca31e8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca31e8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca31e8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca31e8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca31e8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca31e8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca31e8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca31e8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca31e8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca31e8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca31e8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca31e8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca31e8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca31e8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca31e8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca31e8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca31e8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca31e8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca31e8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca30a8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca30a8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca30a8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca30a8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca30a8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca30a8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca30a8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca30a8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca30a8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca30a8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca30a8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca30a8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca30a8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca30a8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca30a8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca30a8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca30a8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca30a8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca30a8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca30a8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca30a8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca30a8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca30d0>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca30d0>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca30d0>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca30d0>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca30d0>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca30d0>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca30d0>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca30d0>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca30d0>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca30d0>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca30d0>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca30d0>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca30d0>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca30d0>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca30d0>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca30d0>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca30d0>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca30d0>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca30d0>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca30d0>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca30d0>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca30d0>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca30a8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca30a8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca30a8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca30a8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca30a8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca30a8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca30a8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca30a8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca30a8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca30a8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca30a8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca30a8>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca30a8>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca30a8>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca30a8>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca30a8>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca30a8>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca30a8>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca30a8>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca30a8>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca30a8>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca30a8>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca3080>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca3080>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca3080>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca3080>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca3080>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca3080>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca3080>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca3080>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca3080>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca3080>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca3080>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca3080>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca3080>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca3080>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca3080>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca3080>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca3080>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca3080>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca3080>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca3080>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca3080>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca3080>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca28a0>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca28a0>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca28a0>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca28a0>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca28a0>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca28a0>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca28a0>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca28a0>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca28a0>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca28a0>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca28a0>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca28a0>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca28a0>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca28a0>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca28a0>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca28a0>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca28a0>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca28a0>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca28a0>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca28a0>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca28a0>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca28a0>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca3170>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca3170>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca3170>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca3170>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca3170>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca3170>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca3170>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca3170>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca3170>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca3170>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca3170>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca3170>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca3170>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca3170>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca3170>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca3170>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca3170>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca3170>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca3170>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca3170>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca3170>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca3170>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca3080>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca3080>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca3080>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca3080>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca3080>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca3080>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca3080>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca3080>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca3080>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca3080>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca3080>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca3080>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca3080>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca3080>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca3080>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca3080>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca3080>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca3080>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca3080>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca3080>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca3080>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca3080>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca28a0>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca28a0>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca28a0>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca28a0>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca28a0>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca28a0>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca28a0>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca28a0>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca28a0>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca28a0>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca28a0>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca28a0>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca28a0>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca28a0>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca28a0>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca28a0>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca28a0>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca28a0>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca28a0>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca28a0>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca28a0>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca28a0>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca3170>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca3170>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca3170>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca3170>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca3170>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca3170>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca3170>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca3170>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca3170>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca3170>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca3170>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca3170>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca3170>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca3170>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca3170>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca3170>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca3170>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca3170>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca3170>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca3170>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca3170>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca3170>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca3148>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca3148>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca3148>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca3148>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca3148>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca3148>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca3148>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca3148>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca3148>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca3148>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca3148>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca3148>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca3148>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca3148>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca3148>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca3148>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca3148>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca3148>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca3148>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca3148>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca3148>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca3148>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca31c0>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca31c0>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca31c0>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca31c0>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca31c0>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca31c0>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca31c0>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca31c0>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca31c0>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca31c0>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca31c0>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca31c0>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca31c0>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca31c0>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca31c0>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca31c0>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca31c0>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca31c0>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca31c0>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca31c0>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca31c0>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca31c0>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca3170>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca3170>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca3170>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca3170>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca3170>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca3170>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca3170>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca3170>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca3170>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca3170>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca3170>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
+{'tr.color': <kivy.graphics.context_instructions.Color object at 0x72c8bcf0>, 'tr.grab': True, 'tr.rect': <kivy.graphics.vertex_instructions.Rectangle object at 0x7469f500>}
+obj.__class__ \ <class 'kivy.input.shape.ShapeRect'>
+obj.__delattr__ \ <method-wrapper '__delattr__' of ShapeRect object at 0x72ca3170>
+obj.__dict__ \ {}
+obj.__doc__ \ Class for the representation of a rectangle.
+obj.__format__ \ <built-in method __format__ of ShapeRect object at 0x72ca3170>
+obj.__getattribute__ \ <method-wrapper '__getattribute__' of ShapeRect object at 0x72ca3170>
+obj.__hash__ \ <method-wrapper '__hash__' of ShapeRect object at 0x72ca3170>
+obj.__init__ \ <bound method ShapeRect.__init__ of <kivy.input.shape.ShapeRect object at 0x72ca3170>>
+obj.__module__ \ kivy.input.shape
+obj.__new__ \ <built-in method __new__ of type object at 0x2d53f0>
+obj.__reduce__ \ <built-in method __reduce__ of ShapeRect object at 0x72ca3170>
+obj.__reduce_ex__ \ <built-in method __reduce_ex__ of ShapeRect object at 0x72ca3170>
+obj.__repr__ \ <method-wrapper '__repr__' of ShapeRect object at 0x72ca3170>
+obj.__setattr__ \ <method-wrapper '__setattr__' of ShapeRect object at 0x72ca3170>
+obj.__sizeof__ \ <built-in method __sizeof__ of ShapeRect object at 0x72ca3170>
+obj.__slots__ \ ('width', 'height')
+obj.__str__ \ <method-wrapper '__str__' of ShapeRect object at 0x72ca3170>
+obj.__subclasshook__ \ <built-in method __subclasshook__ of type object at 0x76c99830>
+obj.__weakref__ \ None
+obj.height \ 0.02
+obj.width \ 0.02
